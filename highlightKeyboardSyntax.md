@@ -2,4 +2,6 @@
 * CTRL+C, CTRL+V
     - <kbd>CTRL</kbd>+<kbd>C</kbd>,<kbd>CTRL</kbd>+<kbd>V</kbd> 
 
-* :x! 
+* ESC,:x! (used to exit git's default built-in commit msg editor)
+    - <kbd>ESC</kbd>,<kbd>:x!</kbd> 
+
